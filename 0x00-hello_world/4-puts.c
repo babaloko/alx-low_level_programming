@@ -1,12 +1,11 @@
- #include (stdio.h)
-  2
-  3 /**
-  4  * main - Entry point
-  5  *
-  6  * Return: Always 0 (Success)
-  7  */
-  8 int main(void)
-  9 {
- 10 puts("\"Programming is like building a multilingual puzzle");
- 11 return (0);
- 12 }
+#include <stdio.h>
+/**
+ *main - entry point
+ *
+ *Return: 0 after printing the function
+ */
+int main(void)
+{
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
+}
